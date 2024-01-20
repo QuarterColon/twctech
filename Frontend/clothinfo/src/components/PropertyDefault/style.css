@@ -1,0 +1,50 @@
+.property-default {
+  height: 618px;
+  position: relative;
+  width: 630px;
+}
+
+.property-default .img {
+  height: 618px;
+  left: 137px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 493px;
+}
+
+.property-default .rectangle-2 {
+  height: 124px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.property-default .rectangle-3 {
+  height: 124px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 137px;
+  width: 99px;
+}
+
+.property-default .rectangle-4 {
+  height: 124px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 274px;
+  width: 99px;
+}
+
+.property-default .rectangle-5 {
+  height: 124px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 411px;
+  width: 99px;
+}
